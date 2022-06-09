@@ -1,1 +1,1 @@
-# Sprint-02-CucumberProject
+# Sprint-02-Group-02
